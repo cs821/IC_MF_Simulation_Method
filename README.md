@@ -15,7 +15,7 @@ This repository contains the coursework for **MATH70113: Simulation Methods for 
   - Replication of a deep optimal stopping (DOS) paper
   - An extended version using a CNN-based approach
 
-- **`longstaff_schwartz_simulation.ipynb`**  
+- **`smf_group19_code_longstaff_schwartz_simulation.ipynb`**  
   A standalone notebook demonstrating the **Longstaff-Schwartz algorithm** for American option pricing via least-squares Monte Carlo (LSMC).
 ---
 
